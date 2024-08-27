@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+}
+
+.contaier {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: brown;
+}
+.user-info{
+  display: flex;
+}
